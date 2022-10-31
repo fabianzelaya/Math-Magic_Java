@@ -20,7 +20,7 @@ public class Magic {
 }
 // FZ
 
-Sample out: 18
+// Sample output: 18
 ```
 
 ## Thanks for watching!
